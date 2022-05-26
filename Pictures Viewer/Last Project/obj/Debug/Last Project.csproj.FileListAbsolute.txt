@@ -1,0 +1,10 @@
+D:\The university\3rd year CS\first semester\c#\Last Project\Last Project\bin\Debug\Last Project.exe.config
+D:\The university\3rd year CS\first semester\c#\Last Project\Last Project\bin\Debug\Last Project.exe
+D:\The university\3rd year CS\first semester\c#\Last Project\Last Project\bin\Debug\Last Project.pdb
+D:\The university\3rd year CS\first semester\c#\Last Project\Last Project\obj\Debug\Last Project.csproj.AssemblyReference.cache
+D:\The university\3rd year CS\first semester\c#\Last Project\Last Project\obj\Debug\Last_Project.Form.resources
+D:\The university\3rd year CS\first semester\c#\Last Project\Last Project\obj\Debug\Last_Project.Properties.Resources.resources
+D:\The university\3rd year CS\first semester\c#\Last Project\Last Project\obj\Debug\Last Project.csproj.GenerateResource.cache
+D:\The university\3rd year CS\first semester\c#\Last Project\Last Project\obj\Debug\Last Project.csproj.CoreCompileInputs.cache
+D:\The university\3rd year CS\first semester\c#\Last Project\Last Project\obj\Debug\Last Project.exe
+D:\The university\3rd year CS\first semester\c#\Last Project\Last Project\obj\Debug\Last Project.pdb
